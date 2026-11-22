@@ -1,0 +1,6 @@
+/outputs/
+/model-data/
+.Rhistory
+.RData
+*.parquet
+*.tar
